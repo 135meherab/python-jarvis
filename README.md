@@ -1,36 +1,39 @@
 # Before run jarvis do these things
-1. First Download the main.py file.
-2. Open your main.py file with your pycharm or vs code.
-3. import all the module one by one
-    ### To import module go to editor terminal.
-    <img src="./img/image.png" width="500">
-   
-    ### run these command   
+1. This project need python 3.10
+2. First install python. Setup your device for to run python file.
+3. Then install pip.( pip used for install module )
+    ### Run these command in your command prompt
+    
+    ```
+    curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    ```
+    
+    ```
+    python get-pip.py
+    ```
+4. Then install These modules
+    ### Go to your command prompt & run this command.
+    
     ```
     pip install SpeechRecognition
     ```
-    <img src="./img/image_1.png" width="500">
-
     ```
     pip install PyAudio
     ```
-    <img src="./img/image_2.png" width="500">
-
     ```
     pip install pywhatkit
     ```
-
-    <img src="./img/image_4.png" width="500">
-
     ```
     pip install wikipedia
     ```
-    <img src="./img/image_5.png" width="500">
-    
     ```
     pip install pyttsx3
     ```
-    <img src="./img/image_6.png" width="500">
-
+    ```
+    pip install PyAutoGUI
+    ```
+    ```
+    pip install pynput
+    ```
+    
 # Now you can run the file
-<img src="./img/image_7.png" width="500">
