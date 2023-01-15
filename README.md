@@ -15,6 +15,11 @@
     ### Go to your command prompt & run this command.
     
     ```
+    pip install -r requirements.txt
+    ```
+    
+    ### OR install all module one by one
+    ```
     pip install SpeechRecognition
     ```
     ```
